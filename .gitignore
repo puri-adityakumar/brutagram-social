@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+vercel.env
+
+# IDE and editor settings
+.idea/
+.vscode/
+.editorconfig
+
+
+# Test and coverage reports
+coverage/
+test-results/
+
+# Log files
+logs/
+
+# Configuration files
+
+
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Other
+*.iml
+*.suo
+.vercel
